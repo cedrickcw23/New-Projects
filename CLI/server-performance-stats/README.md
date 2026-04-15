@@ -1,1 +1,1 @@
-cd /mnt/d/Sourcecode/New-Projects/CLI/server-performance-stats
+
